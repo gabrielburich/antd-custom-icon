@@ -1,11 +1,16 @@
 {
   "name": "antd-custom-icon",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Gabriel Burich",
   "description": "lib to make it possible to create your own lib of icons for antd, without having to import all @ ant-desing",
   "main": "lib/index.js",
   "types": "lib",
-  "keywords": ["antd", "icon", "svg", "custom"],
+  "keywords": [
+    "antd",
+    "icon",
+    "svg",
+    "custom"
+  ],
   "license": "ISC",
   "repository": {
     "type": "git",
@@ -15,8 +20,7 @@
     "build": "tsc -p ."
   },
   "peerDependencies": {
-    "react": ">=16.0.0",
-    "antd": ">=4.0.0"
+    "react": ">=16.0.0"
   },
   "dependencies": {
     "classnames": "^2.2.6",
