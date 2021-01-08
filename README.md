@@ -3,7 +3,9 @@ lib to make it possible to create your own lib of icons for antd, without having
 
 
 ## Install 
-`npm i antd-custom-icon -D`
+`npm i antd-custom-icon`
+
+`yarn add antd-custom-icon`
 
 ## How to use
 
